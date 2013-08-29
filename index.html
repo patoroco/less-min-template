@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset=utf-8>
+	<title>Less Template</title>
+	<script type="text/javascript">
+		// Replace that on final version with CSS compiled version
+	    less = { 
+	        env: "development", // or "production"
+	        async: true,       // load imports async
+	        fileAsync: false,   // load imports async when in a page under
+	                            // a file protocol
+	        poll: 1000,         // when in watch mode, time in ms between polls
+	        functions: {},      // user functions, keyed by name
+	        dumpLineNumbers: "comments", // or "mediaquery" or "all"
+	        relativeUrls: true,// whether to adjust url's to be relative
+	    };
+	</script>
+
+	<link rel="stylesheet/less" type="text/css" href="css/styles.less" />
+	<script type="text/javascript" src="js/less-1.4.1.min.js"></script>
+</head>
+<body>
+<h1>It works!</h1>
+</body>
+</html>
