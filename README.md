@@ -11,7 +11,7 @@ Remember to compile less when you upload to production :)
 * [LESS, the dynamic stylesheet language](http://lesscss.org/).
 
 ## License
-Copyright (c) 2013 Jorge Maroto García ([http://jorgemaroto.es](http://jorgemaroto.es))
+Copyright (c) 2013 Jorge Maroto García ([http://maroto.me](http://maroto.me))
 
 Permission is hereby granted, free of charge, to any
 person obtaining a copy of this software and associated
